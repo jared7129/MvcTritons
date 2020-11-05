@@ -12,6 +12,10 @@
 
 ### Api : Contains all the Api files
 
-### Step 1 : Download Visual Studio Code
+#### Step 1 : Download Visual Studio Code
+
+#### Step 2 : Clone repository
+
+#### Step 3 : Run application
 
 
