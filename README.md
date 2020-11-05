@@ -1,8 +1,8 @@
 # MvcTritons
 
-## This App was built Using Microsft Visual Studio Code
+### This App was built Using Microsft Visual Studio Code
 
-## It Contains the following folders :
+### It Contains the following folders :
 
 ### Models : Contains all the model files
 
