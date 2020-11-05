@@ -18,4 +18,10 @@
 
 #### Step 3 : Run application
 
+### Notes :
+
+1.The SQL file was developed via Microsoft SQL Server 2019. You will need to install the MSSQL extension via the Command Palette in Visual Studio Code
+
+2. To run the api, you will need to install Swagger. You can also do that via the Command Palette in Visual Studio Code
+
 
